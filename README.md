@@ -1,4 +1,14 @@
-<h1> Instrucciones:</h1>
+<H1>Sistema para un ecommerce</H1>
+<Esta es la estrutura para un ecommerce desarrollada con NestJs y postgresql>
+<h3> Componentes principales</h3>
+<p>Registro de usuarios</p>
+<p>Autenticacion de usuarios </p>
+<p>Rutas protegidas </p>
+<p> Subir imagenes a la nube </p>
+<p> Creacion de ordenes </p>
+<p> Alta de productos </p>
+<p> Precarga de datos </p>
+<h2> Instrucciones:</h2>
 <p>Descargar o clonar el repositorio
 dentro de la carpeta PM4-muqui/ecommerce-muqui
 ejecutar el comando npm install</p> 
