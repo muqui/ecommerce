@@ -10,7 +10,7 @@
 <p> Precarga de datos </p>
 <h2> Instrucciones:</h2>
 <p>Descargar o clonar el repositorio
-dentro de la carpeta PM4-muqui/ecommerce-muqui
+dentro de la carpeta 
 ejecutar el comando npm install</p> 
 <p> cambiarse al directorio ecommerce-muqui y ejecutar el comando npm run start:dev </p>
 <p> El servidor se ejecuta en la siguiente url: http://localhost:3000 <p> 
